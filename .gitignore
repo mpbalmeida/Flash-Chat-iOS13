@@ -12,7 +12,9 @@ Pods/
 ### Xcode ###
 ## User settings
 xcuserdata/
-
+.DS_Store
+**/GoogleService-Info.plist
+                                
 ## Xcode 8 and earlier
 *.xcscmblueprint
 *.xccheckout
@@ -27,3 +29,4 @@ xcuserdata/
 **/xcshareddata/WorkspaceSettings.xcsettings
 
 # End of https://www.toptal.com/developers/gitignore/api/xcode,cocoapods
+
